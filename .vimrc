@@ -1,7 +1,6 @@
 set number
 set backspace=indent,eol,start
-set colorcolumn=79
-filetype plugin on
+filetype plugin indent on
 syntax on
 colorscheme sublime
 set expandtab
