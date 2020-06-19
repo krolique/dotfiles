@@ -1,12 +1,26 @@
-# VIM-sical
-Contains my VIM stuff and such
+# dotfiles
+The files that enable me to do things better. i think.
 
 ```
 
-   \ʕ◔ϖ◔ʔ/  "Wisdom cannot be imparted. Wisdom that a wise man attempts to
-             impart always sounds like foolishness to someone else ...
-             Knowledge can be communicated, but not wisdom."
-             - Hermann Hesse
+
+                 ___
+              .-"-~-"-.
+             /.-"-.-"-.\       "...так кто ж ты, наконец?
+             ||((o|o))||        -Я -часть той силы что вечно
+             )\__/V\__/(        хочет зла и вечно совершает благо."
+            / ~ -...- ~ \      - Гете. "Фауст"
+           |\` ~. ~ .~ `/|
+        () | `~ - ^ - ~` |
+    () //  | ;  '  :  .  |
+    ()\\/_() \ . : '  ; '/
+ ___/ /_____'.   ; ' .'____
+        _   ^ `uu---uu`    /\
+ _____________^ _________^_\/
+              \ \
+              //\\()
+           ()/  ()
+             ()
 
 ```
 
