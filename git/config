@@ -1,0 +1,28 @@
+[user]
+    email = nick@digitalscripter.com
+    name = krolique
+
+[alias]
+    amend = commit --amend
+    force = push --force-with-lease
+    ls = log --pretty=format:"%C(yellow)%h%C(cyan)%d\\ %Creset%s%Cred\\ [%an]"
+    ll = ls --decorate --numstat
+    pop = reset --soft HEAD~1
+    when = log --pretty=format:"%C(yellow)%h\\ %C(green)%ad%C(cyan)%d\\ %Creset%s%Cred\\ [%an]" --decorate --date=relative
+[color]
+    ui = true
+[core]
+    editor = vim
+[diff]
+    algorithm = patience
+[difftool]
+    prompt = false
+[fetch]
+    prune = true
+[mergetool]
+    keepBackup = false
+    prompt = false
+[pull]
+    rebase = true
+[push]
+    default = simple
