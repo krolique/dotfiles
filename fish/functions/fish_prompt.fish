@@ -10,7 +10,7 @@ set __fish_git_prompt_showcolorhints 'yes'
 set __fish_git_prompt_color_branch '78a6f0'
 set __fish_git_prompt_color_upstream_ahead green
 set __fish_git_prompt_color_upstream_behind 'dc453d'
-set __fish_git_prompt_color_cleanstate 'eb6b34'
+set __fish_git_prompt_color_cleanstate '009900'
 set __fish_git_prompt_color_invalidstate 'CC3333'
 
 # git prompt chars overrides
