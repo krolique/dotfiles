@@ -14,8 +14,9 @@ set __fish_git_prompt_color_cleanstate 'eb6b34'
 set __fish_git_prompt_color_invalidstate 'CC3333'
 
 # git prompt chars overrides
-set __fish_git_prompt_char_stagedstate 'ø'
+set __fish_git_prompt_char_stagedstate 'Δ'
 set __fish_git_prompt_char_upstream_diverged '±'
+set __fish_git_prompt_char_cleanstate 'ø'
 
 function fish_prompt
     set last_status $status
