@@ -26,7 +26,7 @@ function fish_prompt
     set_color normal
   
     set_color '009900'
-    printf ' [%s]' (pwd)
+    printf ' [%s]' (prompt_pwd)
     set_color normal
 
     printf '%s ' (__fish_git_prompt)
