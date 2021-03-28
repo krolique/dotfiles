@@ -4,6 +4,10 @@ set PATH $PATH ~/.local/bin
 # Disable the greeting.
 set fish_greeting
 
+# install fundle if it's not present
+if not functions -q fundle; eval (curl -sfL https://git.io/fundle-install); end
+
+
 # Prompt before overwriting or removing a file.
 alias cp "cp -i"
 alias ln "ln -i"
@@ -12,4 +16,6 @@ alias rm "rm -i"
 
 # Create intermediate directories.
 alias mkdir "mkdir -p"
+
+fundle plugin "sentriz/fish-pipenv"
 
